@@ -15,7 +15,9 @@
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <quarkus.version>2.7.5.Final</quarkus.version>
+<!--        <quarkus.version>2.8.0.Final</quarkus.version>-->
+<!--        <quarkus.version>2.7.5.Final</quarkus.version>-->
+        <quarkus.version>2.6.3.Final</quarkus.version>
         <strimzi-api.version>0.28.0</strimzi-api.version>
     </properties>
 
